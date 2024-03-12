@@ -1,0 +1,17 @@
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\ProjectZEN.exe.config
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\ProjectZEN.exe
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\ProjectZEN.pdb
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\dnlib.dll
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\MetroFramework.Design.dll
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\MetroFramework.dll
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\bin\Debug\dnlib.xml
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\Zenfuscator.csproj.AssemblyReference.cache
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\Zenfuscator.csproj.SuggestedBindingRedirects.cache
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\Zenfuscator.Form1.resources
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\ProjectZEN.Properties.Resources.resources
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\Zenfuscator.csproj.GenerateResource.cache
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\Zenfuscator.csproj.CoreCompileInputs.cache
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\Zenfuscator.csproj.CopyComplete
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\ProjectZEN.exe
+C:\Users\LosGranada\Desktop\ZenFuscator-main\Zenfuscator\obj\Debug\ProjectZEN.pdb
